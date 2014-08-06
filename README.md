@@ -21,4 +21,4 @@ configurações:
 
 *Plone-4.3.2:setuptools==1.4.2
 
-*Plone-4.3.3:setuptools==1.4.2
+*Plone-4.3.3:Python-2.7, setuptools==1.4.2, zc.buildout==1.7.1
