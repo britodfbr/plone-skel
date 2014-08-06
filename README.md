@@ -9,16 +9,16 @@ Plone-4.3.3 e as mais recentes que estas.
 
 configurações:
 
-Plone-2.5.5
+*Plone-2.5.5
 
-Plone-3.3.5
+*Plone-3.3.5: Python-2.4, Zope-2.10.11, Plone-3.3.5, PIL-1.1.7 e CMF-2.1.2
 
-Plone-4.1.3
+*Plone-4.1.3
 
-Plone-4.2.4
+*Plone-4.2.4
 
-Plone-4.3.1
+*Plone-4.3.1
 
-Plone-4.3.2
+*Plone-4.3.2
 
-Plone-4.3.3
+*Plone-4.3.3
