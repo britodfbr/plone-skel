@@ -3,6 +3,7 @@ plone-skel
 Este projeto tem o objetivo de ser o esqueleto base para criar ambientes plone.
 
 Documentação em http://brito.blog.incolume.com.br/2014/08/plone-skel.html
+
 Repositório em https://github.com/britodfbr/plone-skel.git
 
 O intento é que se seja disponibilizado para as versõs de Plone, entre elas: 
